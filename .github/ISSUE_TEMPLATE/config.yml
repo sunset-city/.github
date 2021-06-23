@@ -1,0 +1,7 @@
+contact_links:
+  - name: Discord server
+    url: https://discord.gg/fFPEFYUnVp
+    about: You can also discuss bugs and features here.
+  - name: Security policy
+    url: https://github.com/sunset-city/.github/blob/main/SECURITY.md
+    about: Please follow these procedures for security vulnerabilities.
