@@ -1,10 +1,6 @@
-# Sunset City Code of Conduct
+# Sunset Vacation Code of Conduct
 
-This Code of Conduct applies in all spaces managed by Sunset City and
-its leaders, especially in communications on our GitHub repositories.
-
-[Additional rules][rules] apply to the Sunset City Discord server
-itself, which can be joined at [discord.gg/fFPEFYUnVp][invite].
+This Code of Conduct applies in all spaces managed by Sunset Vacation.
 
 ## Our Pledge
 
@@ -38,9 +34,11 @@ Examples of unacceptable behavior include:
   advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political
   attacks
+* Annoying or otherwise aggravating comments
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+* Violations of applicable terms of service
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
@@ -83,10 +81,6 @@ Community leaders will follow these Community Impact Guidelines in
 determining the consequences for any action they deem in violation of
 this Code of Conduct.
 
-Violations of the [rules][rules] in our Discord server will be handled
-using our [strike system][strikes], aside from serious violations that
-warrant heavy action.
-
 ### 1. Correction
 
 **Community Impact**: Use of inappropriate language or other behavior
@@ -108,6 +102,18 @@ with those enforcing the Code of Conduct, for a specified period of
 time. This includes avoiding interactions in community spaces as well as
 external channels like social media. Violating these terms may lead to a
 temporary or permanent ban.
+
+### 2.5 Temporary Mute
+
+**Community Impact**: A single incident or series of actions in our
+Discord community warranting more than a warning but not worthy of a
+temporary ban.
+
+**Conequences**: A temporary ban from any interaction in our Discord
+community for a specified period of time. No public or private
+interaction with the people incolved, including unsolicited interaction
+with those enforcing this Code of Conduct, is allowed during this
+period. Violating these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban
 
@@ -138,16 +144,11 @@ This Code of Conduct is adapted from the
 inspired by
 [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
-For answers to common questions about this code of conduct, see the FAQ
-at [contributor-covenant.org/faq][FAQ]. Other questions may be directed
-by email to the community leaders at
+Questions may be directed by email to the community leaders at
 [admins@sunsetcity.bsoyka.me][admins email].
 
 [admins email]: mailto:admins@sunsetcity.bsoyka.me
 [FAQ]: https://www.contributor-covenant.org/faq
 [homepage]: https://www.contributor-covenant.org
-[invite]: https://discord.gg/fFPEFYUnVp
 [Mozilla CoC]: https://github.com/mozilla/diversity
-[rules]: https://sunsetcity.bsoyka.me/rules
-[strikes]: https://sunsetcity.bsoyka.me/strikes
 [Sunset Mail]: https://discord.com/channels/@me/814377445590433802
