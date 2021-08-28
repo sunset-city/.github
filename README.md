@@ -1,7 +1,7 @@
-# Sunset City `.github`
+# Sunset Vacation `.github`
 
 This repository contains **community health files** for
-[Sunset City][invite]'s projects.
+[Sunset Vacation][invite]'s projects.
 
 [![License][license image]][license]
 
@@ -13,9 +13,9 @@ This repository contains **community health files** for
 |        **[`FUNDING.yml`][funding]**         | Settings for sponsoring our projects on GitHub |
 |        **[`SECURITY.md`][security]**        | Our security policy                            |
 
-[code of conduct]: https://github.com/sunset-city/bot/blob/main/CODE_OF_CONDUCT.md
-[funding]: https://github.com/sunset-city/bot/blob/main/FUNDING.yml
+[code of conduct]: https://github.com/sunset-vacation/bot/blob/main/CODE_OF_CONDUCT.md
+[funding]: https://github.com/sunset-vacation/bot/blob/main/FUNDING.yml
 [invite]: https://discord.gg/fFPEFYUnVp
-[license image]: https://img.shields.io/github/license/sunset-city/bot
-[license]: https://github.com/sunset-city/bot/blob/main/LICENSE
-[security]: https://github.com/sunset-city/bot/blob/main/SECURITY.md
+[license image]: https://img.shields.io/github/license/sunset-vacation/bot
+[license]: https://github.com/sunset-vacation/bot/blob/main/LICENSE
+[security]: https://github.com/sunset-vacation/bot/blob/main/SECURITY.md
