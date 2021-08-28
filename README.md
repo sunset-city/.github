@@ -13,9 +13,9 @@ This repository contains **community health files** for
 |        **[`FUNDING.yml`][funding]**         | Settings for sponsoring our projects on GitHub |
 |        **[`SECURITY.md`][security]**        | Our security policy                            |
 
-[code of conduct]: https://github.com/sunset-vacation/bot/blob/main/CODE_OF_CONDUCT.md
-[funding]: https://github.com/sunset-vacation/bot/blob/main/FUNDING.yml
+[code of conduct]: https://github.com/sunset-vacation/.github/blob/main/CODE_OF_CONDUCT.md
+[funding]: https://github.com/sunset-vacation/.github/blob/main/FUNDING.yml
 [invite]: https://discord.gg/fFPEFYUnVp
 [license image]: https://img.shields.io/github/license/sunset-vacation/bot
-[license]: https://github.com/sunset-vacation/bot/blob/main/LICENSE
-[security]: https://github.com/sunset-vacation/bot/blob/main/SECURITY.md
+[license]: https://github.com/sunset-vacation/.github/blob/main/LICENSE
+[security]: https://github.com/sunset-vacation/.github/blob/main/SECURITY.md
